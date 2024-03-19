@@ -19,8 +19,8 @@
   },
   {
     "img":"img",
-    "proyectos": "Tienda virtual",
-    "descripcion": "tailwindcss, EJS, Boostrap, JS y CSS ",
+    "proyectos": "store-sena",
+    "descripcion": "tailwindcss, mongodb, node, express, EJS, Boostrap, JS y CSS ",
     "botones":{
       "ruta_git":"",
       "ruta_ver":""
@@ -45,12 +45,30 @@
     }
   },
   {
-    "img":"./img/Captura de pantalla 2024-03-19 124038.png",
-    "proyectos": "Centro veterinario",
-    "descripcion": "Se uso HTML, Boostrap, JS y CSS",
+    "img":"./img/Captura de pantalla 2024-03-19 151732.png",
+    "proyectos": "Pausas activas",
+    "descripcion": "Se uso HTML, Boostrap y CSS",
     "botones":{
-      "ruta_git":"https://github.com/punky-1/centro-veterinario",
-      "ruta_ver":"https://punky-1.github.io/centro-veterinario/"
+      "ruta_git":"https://github.com/punky-11/pausas-activas",
+      "ruta_ver":"https://punky-11.github.io/pausas-activas/"
+    }
+  },
+  {
+    "img":"./img/Captura de pantalla 2024-03-19 152017.png",
+    "proyectos": "alura-geek",
+    "descripcion": "Se uso HTML, JS, Boostrap y CSS",
+    "botones":{
+      "ruta_git":"https://github.com/punky-11/alura-geek",
+      "ruta_ver":"https://punky-11.github.io/alura-geek/"
+    }
+  },
+  {
+    "img":"",
+    "proyectos": "sl-Soft",
+    "descripcion": "mongodb, node, express, EJS, Boostrap, JS y CSS ",
+    "botones":{
+      "ruta_git":"https://github.com/punky-11/sl-soft-p",
+      "ruta_ver":""
     }
   }
 ]
